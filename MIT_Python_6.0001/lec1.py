@@ -1,3 +1,4 @@
+
 pi = 3.14159
 radius = 2.2
 # area of circle equation <- this is a comment
@@ -29,7 +30,7 @@ print(area)
 #### AUTOCOMPLETE #######
 #############################
 # Spyder can autocomplete names for you
-# start typing a variable name defined in your program and hit tab 
+# start typing a variable name defined in your program and hit tab
 # before you finish typing -- try it below
 
 # define a variable
